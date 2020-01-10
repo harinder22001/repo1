@@ -9,7 +9,7 @@ libraries {
 stages {
 	stage('Demo'){
 		steps{
-			echo 'Hello world'
+			hello 'harinder'
                      }
         }
 
