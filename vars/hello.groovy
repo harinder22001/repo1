@@ -1,4 +1,4 @@
-def f1(String name){
+def call(String name){
 	echo "Hello ${name}"
 
 }
