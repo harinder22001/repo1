@@ -1,0 +1,3 @@
+[submodule "interviews"]
+	path = interviews
+	url = https://github.com/kdn251/interviews.git
